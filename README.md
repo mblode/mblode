@@ -9,29 +9,36 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
 > I ship code daily and love building teams that solve hard problems at scale. Full-stack development, AI implementation, and product leadership are my core strengths.
 
 ## Open Source Projects
 
 - 🛠️ **[Agent Skills](https://github.com/mblode/agent-skills)** - Minimal set of agent skills for high-quality UI and frontend work
-- 📄 **[AllMD](https://www.npmjs.com/package/allmd)** - Convert web pages, YouTube videos, PDFs, and more to markdown
-- 🎨 **[Blode UI](https://ui.blode.co)** - UI component library for design engineers
-- 🔷 **[Blode Icons](https://icons.blode.co)** - Icon library for design engineers
+- 📄 **[AllMD](https://github.com/mblode/allmd)** - Convert web pages, YouTube videos, PDFs, and more to markdown
+- 🎨 **[Blode UI](https://github.com/mblode/blode-ui)** - UI component library for design engineers
+- 🔷 **[Blode Icons](https://github.com/mblode/blode-icons)** - Icon library for design engineers
 - 🔍 **[Claude Code Search](https://github.com/mblode/claude-code-search)** - Search through your Claude Code conversation history
 - 🤝 **[Shareful.ai](https://shareful.ai)** - Share and discover coding solutions
 - 📰 **[HackerTok](https://github.com/mblode/hacker-tok)** - TikTok-style Hacker News reader
-- 🗂️ **[DnD Grid](https://dnd-grid.com)** - Draggable and resizable grid layout for React
-- ⚡ **[React Vello](https://react-vello.blode.co)** - Blazing fast React renderer powered by Vello (Rust + WASM)
+- 🗂️ **[DnD Grid](https://github.com/mblode/dnd-grid)** - Draggable and resizable grid layout for React
+- ⚡ **[React Vello](https://github.com/mblode/react-vello)** - Blazing fast React renderer powered by Vello (Rust + WASM)
 - 🔲 **[Beautiful QR Code](https://github.com/mblode/beautiful-qr-code)** - Beautiful QR code generator
 - 🧹 **[Marx CSS](https://github.com/mblode/marx)** - The classless CSS reset (perfect for Communists) — 1.7k ⭐
 - 🍔 **[Burger](https://github.com/mblode/burger)** - The minimal hamburger menu with fullscreen navigation — 824 ⭐
 - 🌿 **[Twig Language 2](https://github.com/mblode/vscode-twig-language-2)** - VS Code extension with snippets, syntax highlighting, hover, and formatting for Twig
 - 🌿 **[Twig Language](https://github.com/mblode/vscode-twig-language)** - VS Code extension with snippets and syntax highlighting for Twig
-- 🎛️ **[Pretty Formatter](https://marketplace.visualstudio.com/items?itemName=mblode.pretty-formatter)** - VS Code extension to format files using Pretty Diff
+- 🎛️ **[Pretty Formatter](https://github.com/mblode/vscode-pretty-formatter)** - VS Code extension to format files using Pretty Diff
 - 📚 **[Zotero Citations](https://github.com/mblode/vscode-zotero)** - Zotero Better BibTeX citations for VS Code
-- 🔧 **[Raycast Extensions](https://github.com/mblode)** - CyberChef, Google Search, and Quick Event for Raycast
+- 🔧 **[CyberChef](https://github.com/raycast/extensions/tree/main/extensions/cyberchef)** - The Cyber Swiss Army Knife — encryption, encoding, compression and data analysis for Raycast
+- 🔍 **[Google Search](https://github.com/raycast/extensions/tree/main/extensions/google-search)** - Google search with autosuggestions for Raycast
+- 🎙️ **[Commandment](https://github.com/mblode/commandment)** - Open-source voice dictation for macOS. Bring your own OpenAI API key (Swift)
+- 🔵 **[Blue Noise Rust](https://github.com/mblode/blue-noise-rust)** - Black and white image dithering using blue noise — 17 ⭐
+- ✅ **[Done](https://github.com/mblode/done)** - Task management app
+- 🗓️ **[Raycast Quick Event](https://github.com/mblode/raycast-quick-event)** - Create calendar events using natural language in Raycast
+- 🖱️ **[Perfect DnD](https://github.com/mblode/perfect-dnd)** - Drag-and-drop playground built with dnd-kit and Next.js
+- 🧪 **[Matt's Experiments](https://github.com/mblode/matts-experiments)** - 32+ interactive UI/UX experiments — animations, Three.js, and visual effects
+- 🌕 **[Moon](https://github.com/mblode/moon)** - Real-time 3D lunar visualization displaying moon phases with React Three Fiber
 
 ## Startups
 
