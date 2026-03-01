@@ -11,7 +11,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-> My specialty is going zero to one. I ship code daily — full-stack development, AI implementation, and product leadership are my core strengths.
+> I ship code daily and love building teams that solve hard problems at scale. Full-stack development, AI implementation, and product leadership are my core strengths.
 
 ## Open Source Projects
 
@@ -66,7 +66,3 @@
 - 📈 Scaled to 15M+ users globally at me&u
 - 🌏 Served 1M+ Australians with VenueSafe in under 6 months
 - ⭐ 2.5k+ GitHub stars across open source projects
-
-### Philosophy
-
-> "My specialty is going zero to one." — I build to solve real problems, ship fast, and share what I learn.
