@@ -32,7 +32,8 @@
 - 📚 **[Zotero Citations](https://github.com/mblode/vscode-zotero)** - Zotero Better BibTeX citations for VS Code
 - 🔧 **[CyberChef](https://github.com/raycast/extensions/tree/main/extensions/cyberchef)** - The Cyber Swiss Army Knife — encryption, encoding, compression and data analysis for Raycast
 - 🔍 **[Google Search](https://github.com/raycast/extensions/tree/main/extensions/google-search)** - Google search with autosuggestions for Raycast
-- 🎙️ **[Commandment](https://github.com/mblode/commandment)** - Open-source voice dictation for macOS. Bring your own OpenAI API key (Swift)
+- 🦆 **[Rubber Duck](https://github.com/mblode/rubber-duck)** - Voice coding companion for macOS. Hold a hotkey, speak to your codebase, hear answers in real time (Swift)
+- 🎙️ **[Commandment](https://github.com/mblode/commandment)** - Voice dictation for macOS. Bring your own OpenAI API key (Swift)
 - 🔵 **[Blue Noise Rust](https://github.com/mblode/blue-noise-rust)** - Black and white image dithering using blue noise — 17 ⭐
 - ✅ **[Done](https://github.com/mblode/done)** - Task management app
 - 🗓️ **[Raycast Quick Event](https://github.com/mblode/raycast-quick-event)** - Create calendar events using natural language in Raycast
