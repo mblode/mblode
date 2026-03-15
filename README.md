@@ -10,6 +10,7 @@ AI team at Linktree. Previously co-founded Fingertip and VenueSafe.
 - [AllMD](https://github.com/mblode/allmd) - Convert web pages, PDFs, videos, and docs into clean markdown
 - [Blode UI](https://github.com/mblode/blode-ui) - Component registry and docs for design engineers
 - [Blode Icons](https://github.com/mblode/blode-icons) - Icon library for design engineers
+- [Style Capture](https://github.com/mblode/style-capture) - Capture computed CSS from any element and map it to Tailwind utilities
 - [Claude Code Search](https://github.com/mblode/claude-code-search) - Search your Claude Code conversation history
 - [Shareful.ai](https://shareful.ai) - Share and discover reusable coding solutions
 - [HackerTok](https://github.com/mblode/hacker-tok) - TikTok-style Hacker News reader
