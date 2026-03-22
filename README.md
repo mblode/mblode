@@ -18,7 +18,7 @@ AI team at Linktree. Previously co-founded Fingertip and VenueSafe.
 - [DnD Grid](https://github.com/mblode/dnd-grid) - Draggable, resizable grid layout for React
 - [React Vello](https://github.com/mblode/react-vello) - React renderer powered by Vello, Rust, and WASM
 - [Beautiful QR Code](https://github.com/mblode/beautiful-qr-code) - Customizable QR code generator
-- [Marx CSS](https://github.com/mblode/marx) - Classless CSS reset
+- [Marx CSS](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists)
 - [Burger](https://github.com/mblode/burger) - Fullscreen navigation menu
 - [Twig Language 2](https://github.com/mblode/vscode-twig-language-2) - Twig syntax and formatting for VS Code
 - [Twig Language](https://github.com/mblode/vscode-twig-language) - Twig snippets for VS Code
