@@ -6,6 +6,7 @@ AI team at Linktree. Previously co-founded Fingertip and VenueSafe.
 
 ## Projects
 
+- [Blode.md](https://blode.md) - Multi-tenant documentation platform with versioned MDX docs, Hono API, and CLI deployment
 - [Agent Skills](https://github.com/mblode/agent-skills) - AI agent skills for UI and frontend workflows
 - [AllMD](https://github.com/mblode/allmd) - Convert any file or URL to clean markdown
 - [Blode UI](https://github.com/mblode/blode-ui) - Component registry for design engineers
