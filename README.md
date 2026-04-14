@@ -9,6 +9,7 @@ AI team at Linktree. Previously co-founded Fingertip and VenueSafe.
 - [Blode.md](https://blode.md) - Beautiful documentation sites from MDX
 - [Agent Skills](https://github.com/mblode/agent-skills) - AI agent skills for UI and frontend workflows
 - [AllMD](https://github.com/mblode/allmd) - Convert any file or URL to clean markdown
+- [DiffHub](https://github.com/mblode/diffhub) - Local git diff viewer
 - [Blode UI](https://github.com/mblode/blode-ui) - Component registry for design engineers
 - [Blode Icons](https://github.com/mblode/blode-icons) - Icon library for design engineers
 - [Spotlight Testing](https://github.com/mblode/spotlight-testing) - See your code changes in a running dev server instantly
