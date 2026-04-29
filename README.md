@@ -12,6 +12,7 @@ AI team at Linktree. Previously co-founded Fingertip and VenueSafe.
 - [DiffHub](https://github.com/mblode/diffhub) - Local git diff viewer
 - [Blode UI](https://github.com/mblode/blode-ui) - Component registry for design engineers
 - [Blode Icons](https://github.com/mblode/blode-icons) - Icon library for design engineers
+- [Reel](https://reel.blode.co) - Turn browser feedback recordings into structured artifacts for coding agents
 - [Spotlight Testing](https://github.com/mblode/spotlight-testing) - See your code changes in a running dev server instantly
 - [Style Capture](https://github.com/mblode/style-capture) - Capture computed CSS and map to Tailwind
 - [Claude Code Search](https://github.com/mblode/claude-code-search) - Search Claude Code conversation history
