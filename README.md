@@ -6,19 +6,19 @@ AI team at Linktree. Previously co-founded Fingertip and VenueSafe.
 
 ## Projects
 
-- [Blode.md](https://blode.md) - Beautiful documentation sites from MDX
+- [Blode.md](https://github.com/mblode/blodemd) - Beautiful documentation sites from MDX
 - [Agent Skills](https://github.com/mblode/agent-skills) - AI agent skills for UI and frontend workflows
 - [AllMD](https://github.com/mblode/allmd) - Convert any file or URL to clean markdown
 - [DiffHub](https://github.com/mblode/diffhub) - Local git diff viewer
 - [Blode UI](https://github.com/mblode/blode-ui) - Component registry for design engineers
 - [Blode Icons](https://github.com/mblode/blode-icons) - Icon library for design engineers
-- [Canvas Kit](https://canvas.blode.co) - Infinite-canvas shadcn registry: pan, zoom, drag, and folder cards
-- [Reel](https://reel.blode.co) - Turn browser feedback recordings into structured artifacts for coding agents
+- [Canvas Kit](https://github.com/mblode/canvas) - Infinite-canvas shadcn registry: pan, zoom, drag, and folder cards
+- [Reel](https://github.com/mblode/reel) - Turn browser feedback recordings into structured artifacts for coding agents
 - [Spotlight Testing](https://github.com/mblode/spotlight-testing) - See your code changes in a running dev server instantly
 - [Style Capture](https://github.com/mblode/style-capture) - Capture computed CSS and map to Tailwind
 - [Claude Code Search](https://github.com/mblode/claude-code-search) - Search Claude Code conversation history
-- [Shareful.ai](https://shareful.ai) - Share and discover reusable coding solutions
-- [Strata Sync](https://stratasync.dev) - Local-first sync engine that works offline
+- [Shareful.ai](https://github.com/shareful-ai/shareful-ai) - Share and discover reusable coding solutions
+- [Strata Sync](https://github.com/stratasync/stratasync) - Local-first sync engine that works offline
 - [HackerTok](https://github.com/mblode/hacker-tok) - TikTok-style Hacker News reader
 - [DnD Grid](https://github.com/mblode/dnd-grid) - Draggable, resizable grid layout for React
 - [React Vello](https://github.com/mblode/react-vello) - React renderer powered by Vello, Rust, and WASM
