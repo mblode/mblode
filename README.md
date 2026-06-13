@@ -33,6 +33,7 @@ AI team at Linktree. Previously co-founded Fingertip and VenueSafe.
 - [Google Search](https://github.com/raycast/extensions/tree/main/extensions/google-search) - Google search for Raycast
 - [Rubber Duck](https://github.com/mblode/rubber-duck) - Voice coding agent for macOS
 - [Commandment](https://github.com/mblode/commandment) - Voice dictation for macOS
+- [Convene](https://github.com/mblode/convene) - Meeting transcription for macOS
 - [Blue Noise Rust](https://github.com/mblode/blue-noise-rust) - Blue-noise image dithering in Rust
 - [Raycast Quick Event](https://github.com/mblode/raycast-quick-event) - Natural language calendar events for Raycast
 - [Perfect DnD](https://github.com/mblode/perfect-dnd) - Drag and drop playground with dnd-kit
