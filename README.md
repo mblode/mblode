@@ -1,6 +1,6 @@
 # Matthew Blode
 
-AI team at Linktree. Previously co-founded Fingertip and VenueSafe.
+AI at Linktree. Previously co-founded Fingertip and VenueSafe.
 
 > I build AI products, developer tools, and design systems. My specialty is going zero to one.
 
