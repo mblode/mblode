@@ -4,6 +4,8 @@ AI at Linktree. Previously co-founded Fingertip and VenueSafe.
 
 > I build AI products, developer tools, and design systems. My specialty is going zero to one.
 
+Most of what I ship lives under [**Blode**](https://blode.co), my product studio: apps, developer tools, open-source libraries, and design experiments like [Blode UI](https://ui.blode.co), [Blode Icons](https://icons.blode.co), and [Blode.md](https://blode.md).
+
 ## Projects
 
 - [Blode.md](https://github.com/mblode/blodemd) - Beautiful documentation sites from MDX
