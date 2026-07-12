@@ -21,7 +21,7 @@ Most of what I ship lives under [**Blode**](https://blode.co), my product studio
 - [Claude Code Search](https://github.com/mblode/claude-code-search) - Search Claude Code conversation history
 - [Shareful.ai](https://github.com/shareful-ai/shareful-ai) - Share and discover reusable coding solutions
 - [Strata Sync](https://github.com/stratasync/stratasync) - Local-first sync engine that works offline
-- [HackerTok](https://github.com/mblode/hacker-tok) - TikTok-style Hacker News reader
+- [HN](https://github.com/mblode/hn) - TikTok-style Hacker News reader
 - [DnD Grid](https://github.com/mblode/dnd-grid) - Draggable, resizable grid layout for React
 - [React Vello](https://github.com/mblode/react-vello) - React renderer powered by Vello, Rust, and WASM
 - [Beautiful QR Code](https://github.com/mblode/beautiful-qr-code) - Customizable QR code generator
