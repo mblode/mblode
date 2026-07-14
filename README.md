@@ -4,8 +4,6 @@ AI at Linktree. Previously co-founded Fingertip and VenueSafe.
 
 > I build AI products, developer tools, and design systems. My specialty is going zero to one.
 
-Most of what I ship lives under [**Blode**](https://blode.co), my product studio: apps, developer tools, open-source libraries, and design experiments like [Blode UI](https://ui.blode.co), [Blode Icons](https://icons.blode.co), and [Blode.md](https://blode.md).
-
 ## Projects
 
 - [Blode.md](https://github.com/mblode/blodemd) - Beautiful documentation sites from MDX
@@ -15,7 +13,6 @@ Most of what I ship lives under [**Blode**](https://blode.co), my product studio
 - [Blode UI](https://github.com/mblode/blode-ui) - Component registry for design engineers
 - [Blode Icons](https://github.com/mblode/blode-icons) - Icon library for design engineers
 - [Canvas Kit](https://github.com/mblode/canvas) - Infinite-canvas shadcn registry: pan, zoom, drag, and folder cards
-- [Reel](https://github.com/mblode/reel) - Turn browser feedback recordings into structured artifacts for coding agents
 - [Spotlight Testing](https://github.com/mblode/spotlight-testing) - See your code changes in a running dev server instantly
 - [Style Capture](https://github.com/mblode/style-capture) - Capture computed CSS and map to Tailwind
 - [Claude Code Search](https://github.com/mblode/claude-code-search) - Search Claude Code conversation history
