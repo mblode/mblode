@@ -6,6 +6,7 @@ AI at Linktree. Previously co-founded Fingertip and VenueSafe.
 
 ## Projects
 
+- [Static to Variable](https://github.com/mblode/static-to-variable) - Turn a family of static fonts into one variable font
 - [Blode.md](https://github.com/mblode/blodemd) - Beautiful documentation sites from MDX
 - [Agent Skills](https://github.com/mblode/agent-skills) - AI agent skills for UI and frontend workflows
 - [AllMD](https://github.com/mblode/allmd) - Convert any file or URL to clean markdown
