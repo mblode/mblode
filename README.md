@@ -36,7 +36,7 @@ AI at Linktree. Previously co-founded Fingertip and VenueSafe.
 - [Commandment](https://github.com/mblode/commandment) - Voice dictation for macOS
 - [Convene](https://github.com/mblode/convene) - Meeting transcription for macOS
 - [Blue Noise Rust](https://github.com/mblode/blue-noise-rust) - Blue-noise image dithering in Rust
-- [Raycast Quick Event](https://github.com/mblode/raycast-quick-event) - Natural language calendar events for Raycast
+- [Raycast Quick Event](https://github.com/raycast/extensions/tree/main/extensions/quick-event) - Natural language calendar events for Raycast
 - [Perfect DnD](https://github.com/mblode/perfect-dnd) - Drag and drop playground with dnd-kit
 - [Matt's Experiments](https://github.com/mblode/matts-experiments) - UI and motion experiments
 - [Moon](https://github.com/mblode/moon) - 3D moon phase visualization
