@@ -38,5 +38,5 @@ AI at Linktree. Previously co-founded Fingertip and VenueSafe.
 - [Blue Noise Rust](https://github.com/mblode/blue-noise-rust): Blue-noise image dithering in Rust
 - [Raycast Quick Event](https://github.com/raycast/extensions/tree/main/extensions/quick-event): Natural language calendar events for Raycast
 - [Perfect DnD](https://github.com/mblode/perfect-dnd): Drag and drop playground with dnd-kit
-- [Matt's Experiments](https://github.com/mblode/experiments): UI and motion experiments
+- [Blode Experiments](https://github.com/mblode/experiments): UI and motion experiments
 - [Moon](https://github.com/mblode/moon): 3D moon phase visualization
