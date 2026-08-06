@@ -10,7 +10,7 @@ AI at Linktree. Previously co-founded Fingertip and VenueSafe.
 - [Blode.md](https://github.com/mblode/blodemd): Beautiful documentation sites from MDX
 - [Agent Skills](https://github.com/mblode/agent-skills): AI agent skills for UI and frontend workflows
 - [Ghostwriter](https://github.com/mblode/ghostwriter): Draft messages in your own voice, not a model's
-- [AllMD](https://github.com/mblode/allmd): Convert any file or URL to clean markdown
+- [allmd](https://github.com/mblode/allmd): Convert any file or URL to clean markdown
 - [DiffHub](https://github.com/mblode/diffhub): Local git diff viewer
 - [Blode UI](https://github.com/mblode/blode-ui): Component registry for design engineers
 - [Blode Icons](https://github.com/mblode/blode-icons): Icon library for design engineers
