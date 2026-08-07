@@ -19,7 +19,7 @@ AI at Linktree. Previously co-founded Fingertip and VenueSafe.
 - [Style Capture](https://github.com/mblode/style-capture): Capture computed CSS and map to Tailwind
 - [Claude Code Search](https://github.com/mblode/claude-code-search): Search Claude Code conversation history
 - [Shareful.ai](https://github.com/shareful-ai/shareful-ai): Share and discover reusable coding solutions
-- [Strata Sync](https://github.com/stratasync/stratasync): Local-first sync engine that works offline
+- [Strata Sync](https://github.com/mblode/stratasync): Local-first sync engine that works offline
 - [HN](https://github.com/mblode/hn): A fast, modern Hacker News client
 - [DnD Grid](https://github.com/mblode/dnd-grid): Draggable, resizable grid layout for React
 - [React Vello](https://github.com/mblode/react-vello): React renderer powered by Vello, Rust, and WASM
