@@ -12,7 +12,6 @@ AI at Linktree. Previously co-founded Fingertip and VenueSafe.
 - [Blode.md](https://github.com/mblode/blodemd): Beautiful documentation sites from MDX
 - [Blode UI](https://github.com/mblode/blode-ui): Component registry for design engineers
 - [DiffHub](https://github.com/mblode/diffhub): Local git diff viewer
-- [allmd](https://github.com/mblode/allmd): Convert any file or URL to clean markdown
 - [Strata Sync](https://github.com/mblode/stratasync): Local-first sync engine that works offline
 - [Static to Variable](https://github.com/mblode/static-to-variable): Turn a family of static fonts into one variable font
 - [Zotero Citations](https://github.com/mblode/vscode-zotero): BibTeX citations for VS Code
