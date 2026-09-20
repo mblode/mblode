@@ -9,6 +9,7 @@ AI at Linktree. Previously co-founded Fingertip and VenueSafe.
 - [Marx CSS](https://github.com/mblode/marx): The classless CSS reset (perfect for Communists)
 - [Burger](https://github.com/mblode/burger): Fullscreen navigation menu
 - [Agent Skills](https://github.com/mblode/agent-skills): AI agent skills for UI and frontend workflows
+- [Taste Lint](https://github.com/mblode/taste-lint): Catch AI slop before you ship.
 - [Blode.md](https://github.com/mblode/blodemd): Beautiful documentation sites from MDX
 - [Blode UI](https://github.com/mblode/ui): Component registry for design engineers
 - [DiffHub](https://github.com/mblode/diffhub): Local git diff viewer
@@ -16,6 +17,7 @@ AI at Linktree. Previously co-founded Fingertip and VenueSafe.
 - [Static to Variable](https://github.com/mblode/static-to-variable): Turn a family of static fonts into one variable font
 - [Zotero Citations](https://github.com/mblode/vscode-zotero): BibTeX citations for VS Code
 - [Blode Icons](https://github.com/mblode/icons): Icon library for design engineers
+- [Iconsmith](https://github.com/mblode/iconsmith): Public Iconsmith agent skill / icon generation
 - [Twig Language 2](https://github.com/mblode/vscode-twig-language-2): Twig syntax and formatting for VS Code
 - [Convene](https://github.com/mblode/convene): Meeting transcription for macOS
 - [Canvas Kit](https://github.com/mblode/canvas): Infinite-canvas shadcn registry: pan, zoom, drag, and folder cards
