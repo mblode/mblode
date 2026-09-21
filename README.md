@@ -10,7 +10,7 @@ AI at Linktree. Previously co-founded Fingertip and VenueSafe.
 - [Burger](https://github.com/mblode/burger): Fullscreen navigation menu
 - [Agent Skills](https://github.com/mblode/agent-skills): AI agent skills for UI and frontend workflows
 - [Taste Lint](https://github.com/mblode/taste-lint): Catch AI slop before you ship.
-- [Blode.md](https://github.com/mblode/blodemd): Beautiful documentation sites from MDX
+- [Edda](https://blode.co/edda) ([repo](https://github.com/mblode/edda)): Knowledge docs for agents — git-native MDX, publish on merge. npm `edda-docs`
 - [Blode UI](https://github.com/mblode/ui): Component registry for design engineers
 - [DiffHub](https://github.com/mblode/diffhub): Local git diff viewer
 - [Strata Sync](https://github.com/mblode/stratasync): Local-first sync engine that works offline
